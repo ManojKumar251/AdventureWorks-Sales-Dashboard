@@ -35,12 +35,12 @@ An interactive Power BI dashboard built to analyze AdventureWorks sales performa
 ## Dashboard Preview
 ### Executive Dashboard
 ![Executive Dashboard](executive-dashboard.png)
-### Customer Detail
-![Customer Detail](customer-detail.png)
-### Product Detail
-![Product Detail](product%20-detail.png)
 ### Maps
 ![Maps Dashboard](maps-dashboard.png)
+### Product Detail
+![Product Detail](product%20-detail.png)
+### Customer Detail
+![Customer Detail](customer-detail.png)
 ## Key Insights
 - The business generated $24.9M in revenue and $10.5M in profit from 25.2K orders.
 - The dashboard includes 17.4K unique customers, with an average revenue of $1,431 per customer.
