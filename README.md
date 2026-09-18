@@ -53,4 +53,4 @@ An interactive Power BI dashboard built to analyze AdventureWorks sales performa
 - Sales activity is concentrated in North America and Europe, with additional customer presence in the Pacific region.
 - Customer analysis shows that the highest-revenue customers can be identified by order count, income level, occupation, and time period.
 ## Author
-Manoj
+Manoj Kumar
