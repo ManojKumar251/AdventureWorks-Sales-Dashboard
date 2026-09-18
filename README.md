@@ -38,7 +38,7 @@ An interactive Power BI dashboard built to analyze AdventureWorks sales performa
 ### Customer Detail
 ![Customer Detail](customer-detail.png)
 ### Product Detail
-![Product Detail](product-detail.png)
+![Product Detail](product%20-detail.png)
 ### Maps
 ![Maps Dashboard](maps-dashboard.png)
 ## Key Insights
